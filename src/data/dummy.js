@@ -171,7 +171,7 @@ const dummyData = [
   {
     id: 14,
     name: "Cozy Seaside",
-    type: "Condo",
+    type: "Apartment",
     location: "2699 Green Valley, Highland Lake, FL",
     area: "3x4",
     imgSrc:
@@ -179,7 +179,7 @@ const dummyData = [
     price: 1800,
     bedrooms: 2,
     bathrooms: 1,
-    whenToMove: "Within a Month",
+    whenToMove: "ASAP",
   },
   {
     id: 15,
